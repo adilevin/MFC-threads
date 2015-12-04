@@ -65,9 +65,7 @@
     <None Include="res\progressbar1.rc2">
       <Filter>Resource Files</Filter>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="ReadMe.txt" />
+    <None Include="ReadMe.md" />
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="res\progressbar1.manifest" />
