@@ -1,8 +1,8 @@
 #MFC-threads
 
-By Adi Levin, December 2015
+Adi Levin, December 2015
 
-##What's in this project
+![](dialog.png)
 
 This is a small MFC application with a dialog box that has two progress bars in it: A progress control (CProgressCtrl) that is created in the primary thread of the application, and a progress control that is created in a different UI thread.
 
